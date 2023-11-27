@@ -1,6 +1,9 @@
 .idea
 target/
 allure-results/
+execution-summary/
+extent-reports/
+
 .DS_Store
 *.iml
 
