@@ -6,6 +6,7 @@ extent-reports/
 
 .DS_Store
 *.iml
+*.sh
 
 # Large media files
 *.mp4
